@@ -1,3 +1,69 @@
 <resources>
     <string name="app_name">Orb</string>
+
+    <string name="reviews">Reviews</string>
+
+    <string name="postReview">Post Review</string>
+
+    <string name="postNew">Post New Review</string>
+
+    <string name="newReview">New Review</string>
+
+    <string name="editReview">Edit Review</string>
+
+    <string name="enterText">Enter text</string>
+
+    <string name="postButton">Post</string>
+
+    <string name="updateButton">Update</string>
+
+    <string name="deleteButton">Delete</string>
+
+    <array name="universities">
+        <item>Aarhus University</item>
+        <item>Albert-Ludwig University of Freiburg (University of Freiburg)</item>
+        <item>Arizona State University</item>
+        <item>Australian National University</item>
+        <item>Bilkent University</item>
+        <item>Boston College</item>
+        <item>Boston University</item>
+        <item>Budapest University of Technology and Economics</item>
+        <item>Carleton College</item>
+        <item>Carnegie Mellon University</item>
+        <item>Case Western Reserve University</item>
+        <item>CentraleSupélec</item>
+        <item>Chalmers University of Technology</item>
+        <item>Chinese University of Hong Kong</item>
+        <item>Chongqing University</item>
+        <item>Chulalongkorn University</item>
+        <item>City University of Hong Kong</item>
+        <item>Clarkson University</item>
+        <item>Communauté Université Grenoble Alpes</item>
+        <item>Concordia University </item>
+        <item>Cornell University College of Agriculture and Life Sciences (CALS)</item>
+        <item>Cornell University College of Human Ecology</item>
+        <item>Cracow University of Technology</item>
+        <item>Dalhousie University</item>
+        <item>Delft University of Technology</item>
+        <item>Durham University</item>
+        <item>École Nationale Supérieure des Mines de Paris (MINES ParisTech)</item>
+        <item>École Polytechnique Fédérale de Lausanne (EPFL)</item>
+        <item>Eindhoven University of Technology</item>
+        <item>Emory University</item>
+        <item>ETH Zurich (Swiss Federal Institute of Technology)</item>
+        <item>Free University of Berlin</item>
+        <item>Fudan University</item>
+        <item>George Washington University</item>
+        <item>Georgetown University</item>
+        <item>Georgia Institute of Technology</item>
+        <item>Hong Kong Polytechnic University</item>
+        <item>Humboldt University of Berlin</item>
+        <item>Imperial College London</item>
+        <item>Institut National des Sciences Appliquées de Lyon (INSA Lyon)</item>
+        <item>Interdisciplinary Center Herzliya</item>
+        <item>Jagiellonian University</item>
+
+
+    </array>
+
 </resources>

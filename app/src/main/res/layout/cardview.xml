@@ -4,8 +4,8 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
-    android:layout_width="375dp"
-    android:layout_height="match_parent"
+    android:layout_width="390dp"
+    android:layout_height="wrap_content"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     app:cardBackgroundColor="#fff"
     app:cardCornerRadius="3dp"
@@ -20,7 +20,7 @@
 
         <TextView
             android:id="@+id/Title"
-            android:layout_width="match_parent"
+            android:layout_width="400dp"
             android:layout_height="wrap_content"
             android:text="Title"
             android:textColor="#000"
@@ -29,11 +29,10 @@
 
         <ImageView
             android:id="@+id/ImageView"
-            android:layout_width="match_parent"
+            android:layout_width="399dp"
             android:layout_height="200dp"
-            android:scaleType="center"
             android:adjustViewBounds="true"
-            />
+            android:scaleType="center" />
 
         <TextView
             android:id="@+id/Description"

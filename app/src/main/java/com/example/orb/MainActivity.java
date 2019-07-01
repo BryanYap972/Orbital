@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
 
         configureRequestButton();
 
+        configureReviewButton();
+
     }
 
     private void configureRequestButton() {
@@ -24,6 +26,16 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 startActivity(new Intent(MainActivity.this, RequestPage.class));
+            }
+        });
+    }
+
+    private void configureReviewButton() {
+        ImageButton RequestButton = (ImageButton) findViewById(R.id.ReviewButton);
+        RequestButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MainActivity.this, ReviewPage.class));
             }
         });
     }
